@@ -2,3 +2,4 @@
 target/
 .project
 CONTRIBUTING.markdown
+.settings/org.eclipse.jdt.core.prefs

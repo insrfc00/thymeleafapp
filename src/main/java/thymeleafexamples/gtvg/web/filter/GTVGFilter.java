@@ -37,8 +37,11 @@ import thymeleafexamples.gtvg.web.application.GTVGApplication;
 import thymeleafexamples.gtvg.web.controller.IGTVGController;
 
 
-public class GTVGFilter implements Filter {
-
+/**
+ * @since
+ *
+ */
+public class GTVGFilter implements Filter { 
     
     private ServletContext servletContext;
     
